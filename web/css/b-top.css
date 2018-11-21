@@ -1,0 +1,43 @@
+.top {
+  padding: 0 30px 47px;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.top-title {
+  margin-top: 35px;
+
+  font-size: 22px;
+  line-height: 24px;
+  text-align: center;
+}
+
+.top-list {
+  margin: 0;
+  padding: 0;
+
+  list-style: none;
+}
+
+.top-item {
+  margin: 0 0 -2px;
+}
+
+.top-item-title {
+  margin: 32px 0 3px;
+
+  font-size: 16px;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+
+.top-item-link {
+  font-size: 14px;
+  line-height: 24px;
+  color: #318cc6;
+
+  text-decoration: none;
+}
+
+.top-link {
+  width: 298px;
+}

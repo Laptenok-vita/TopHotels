@@ -1,0 +1,51 @@
+.introduction {
+  margin: 10px 0 0;
+  padding: 0 0 45px;
+
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.introduction-background {
+  padding: 72px 0 76px;
+
+  background-image: url("../images/background.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.introduction-tagline {
+  margin: 0;
+  padding: 0 70px 0;
+
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 27px;
+  font-family: "Trebuchet MS Italic", "Verdana", sans-serif;
+  text-align: center;
+  color: #ffffff;
+  font-style: italic;
+}
+
+.introduction-title {
+  margin-top: 45px;
+  margin-bottom: 20px;
+
+  font-size: 26px;
+  line-height: 26px;
+  text-align: center;
+  font-style: normal;
+}
+
+.introduction-description {
+  text-align: center;
+  color: #888888;
+}
+
+
+.introduction-link {
+  width: 240px;
+}
+
+.mt36 {
+  margin-top: 36px;
+}

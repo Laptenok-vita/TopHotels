@@ -1,0 +1,15 @@
+.button {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 14px 0 11px;
+
+  font-weight: 700;
+  text-align: center;
+  color: #ffffff;
+  text-transform: uppercase;
+  text-decoration: none;
+
+  background-color: #318cc6;
+  border-radius: 50px;
+}

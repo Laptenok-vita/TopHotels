@@ -1,0 +1,44 @@
+@font-face {
+  font-weight: 400;
+  font-family: "Trebuchet MS";
+  font-style: normal;
+
+  src: url("../fonts/TrebuchetMS.woff") format("woff"), url("../fonts/TrebuchetMS.ttf") format("ttf");
+}
+
+@font-face {
+  font-weight: 700;
+  font-family: "Trebuchet MS";
+  font-style: normal;
+
+  src: url("../fonts/TrebuchetMS-Bold.woff") format("woff"), url("../fonts/TrebuchetMS-Bold.ttf") format("ttf");
+}
+
+@font-face {
+  font-weight: 700;
+  font-family: "Trebuchet MS Italic";
+  font-style: normal;
+
+  src: url("../fonts/TrebuchetMS-Italic.woff") format("woff"), url("../fonts/TrebuchetMS-Italic.ttf") format("ttf");
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  min-width: 320px;
+  max-width: 640px;
+  margin: 0 auto;
+
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: 'Trebuchet MS', 'Verdana', sans-serif;
+}

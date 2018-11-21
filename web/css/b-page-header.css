@@ -1,0 +1,18 @@
+.page-header {
+  display: flex;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+.page-header-logo {
+  margin-top: 12px;
+  margin-right: auto;
+}
+
+.page-header-user {
+  text-align: end;
+}
+
+.page-header-user-icon {
+  margin: 9px 0 0 18px;
+}

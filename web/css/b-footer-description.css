@@ -1,0 +1,13 @@
+.footer-description {
+  margin: 20px 0 0;
+
+  font-size: 13px;
+  line-height: 19px;
+  text-align: center;
+  color: #999999;
+}
+
+.footer-description-link {
+  color: #000000;
+  text-decoration: none;
+}

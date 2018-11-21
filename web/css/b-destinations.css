@@ -1,0 +1,20 @@
+.destinations-list {
+  margin: 0 0 6px;
+  padding: 0;
+
+  list-style: none;
+}
+
+.destinations-item {
+  display: inline-block;
+
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #318cc6;
+}
+
+.destinations-point {
+  vertical-align: text-bottom;
+  color: #d0d0d0;
+}
